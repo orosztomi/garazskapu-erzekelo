@@ -10,7 +10,8 @@ Eszközszükséglet:
 	Ultrasonic sensor: HC-SR04
 
 képek
-![alt text]([https://github.com/orosztomi/garazskapu-erzekelo/blob/main/program.png](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/pi.jpg)?raw=true)
 
+
+![alt text](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/pi.jpg?raw=true)
 
 ![alt text](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/program.png?raw=true)
