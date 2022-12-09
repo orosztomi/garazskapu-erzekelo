@@ -8,3 +8,7 @@ Eszközszükséglet:
 	Breadboard
 	4 jumper kábel
 	Ultrasonic sensor: HC-SR04
+
+képek
+
+![alt text](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/program.png?raw=true)
