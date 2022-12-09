@@ -8,4 +8,3 @@ Eszközszükséglet:
 	Breadboard
 	4 jumper kábel
 	Ultrasonic sensor: HC-SR04
-![image](https://user-images.githubusercontent.com/93983032/206804016-4561e9d6-6898-44b5-b5ac-ff9178e57e1a.png)
