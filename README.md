@@ -9,6 +9,8 @@ Eszközszükséglet:
 	4 jumper kábel
 	Ultrasonic sensor: HC-SR04
 
+Jövőbeni fejleszétsi tervek:
+Egy webszereverrel kommunikáció és a jelet tovvábbítani (nyitva/zárva) és egy weboldalon megjeleníteni így ezáltál bárhonnan visszajelzést kapva a garázsajtó állapotáról.
 
 
 ![alt text](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/pi.jpg?raw=true)
