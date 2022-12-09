@@ -9,7 +9,6 @@ Eszközszükséglet:
 	4 jumper kábel
 	Ultrasonic sensor: HC-SR04
 
-képek
 
 
 ![alt text](https://github.com/orosztomi/garazskapu-erzekelo/blob/main/pi.jpg?raw=true)
